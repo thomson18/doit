@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DOIT</string>
+    <string name="gvp">Gayatri Vidya Parishad
+         College of Engineering
+                (Autonomous)</string>
+    <string name="doit">       D.O.I.T</string>
+
+    <array name="classes">
+        <item>select Class</item>>
+        <item>IT 1</item>
+        <item>IT 2</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </array>
+
+    <array name="periods">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+    </array>
+
+    <string name="about">
+        <br>The GVP College of Engineering, Visakhapatnam started in 1996, has very quickly established itself as one of the most-preferred private engineering colleges in Andhra Pradesh. College has been accredited by NAAC in 2009 with an A grade (with a score of 3.47/4.00). The college has been sanctioned “Autonomous” status by the UGC and conferred by the affiliating University, JNT University, Kakinada in 2009.\n\n\n</br>
+
+        <br>GVP College of Engineering has 7 UG Programs, 13 PG Programs and 8 Departments were recognized as Research Centers by the affiliated University, JNTU-K, Kakinada. All the 7 UG programmes are accredited by NBA and 5 of them are accredited as per Outcome Based Education (OBE) and 5 PG programs are applied for NBA as per OBE.\n\n\n</br>
+
+        <br>Students are joining with Best EAMCET Rank and ECET Ranks in UG Programs more GATE Qualified students in the PG Programs.\n\n\n</br>
+
+        <br>Out of a total faculty strength of 280, 70 are Ph.Ds and 207 are with PG. 34 of the faculty are currently registered for Ph.Ds, 29 of them with our own faculty as guides/co-guides.\n</br></string>
+</resources>
+
